@@ -16,6 +16,5 @@ Tips:
 1、两次空格，回车；（换行效果）  
 2、创建文件时后面加‘/’可创建文件夹；（文件夹效果）  
 3、添加图片  
-
-https://github.com/zhangkmsjtu/hello-world/blob/master/pictures/github-setting.png  
-https://github.com/zhangkmsjtu/hello-world/blob/master/pictures/github-delete.png
+![image]https://github.com/zhangkmsjtu/hello-world/blob/master/pictures/github-setting.png  
+![image]https://github.com/zhangkmsjtu/hello-world/blob/master/pictures/github-delete.png
