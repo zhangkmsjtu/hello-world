@@ -21,4 +21,4 @@ Tips:
 页面拉到底...  
 
 ![image](https://github.com/zhangkmsjtu/hello-world/blob/master/pictures/github-delete.png)  
-4、如何删除‘库’项目（删除项目），见上图setting  
+4、如何删除‘库’项目，见上图setting（删除项目）  
